@@ -1,0 +1,17 @@
+.bodyBackgorund {
+	background-image: url('bg1.jpg');
+	background-size: cover;
+	
+}
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+
+
+#myCanvas{
+	border-width: 10px;
+	background-color: aliceblue;
+	border-style: dashed;
+}
